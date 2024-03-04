@@ -1,1 +1,1 @@
-hello
+const excuseButton = document.querySelector("#excuse-button");
